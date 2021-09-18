@@ -10,7 +10,7 @@
        <KeyFrameSet>
        </KeyFrameSet>
         <OnClick motion:targetId="@+id/imageButton3" />
-        <OnClick motion:targetId="@+id/imageButton3" />
+
 
     </Transition>
 
