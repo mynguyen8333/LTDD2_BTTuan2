@@ -67,6 +67,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:srcCompat="@drawable/talo"
+        android:transitionName="fade1"
         tools:ignore="SpeakableTextPresentCheck"
         tools:layout_editor_absoluteX="77dp"
         tools:layout_editor_absoluteY="94dp" />
