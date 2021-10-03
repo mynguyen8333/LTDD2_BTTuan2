@@ -46,8 +46,11 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.ViewHolder
             itemView.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    onclick.itemclick(talorclick);
+                    onclick.itemclick(talorclick,img);
                 }
+            });
+            img.setOnClickListener(view->{
+                onclick.imageCLick(talorclick);
             });
         }
     }

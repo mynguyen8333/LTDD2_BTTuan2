@@ -24,7 +24,7 @@
         android:layout_width="99dp"
         android:layout_height="99dp"
         android:layout_marginStart="40dp"
-        android:transitionName="fade1"
+        android:transitionName="fade"
         app:layout_constraintBottom_toBottomOf="@+id/view"
         app:layout_constraintStart_toStartOf="@+id/view"
         app:layout_constraintTop_toTopOf="@+id/view"
